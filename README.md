@@ -21,7 +21,7 @@ Analisis sentimen pada dataset tweet tentang kesadaran kanker payudara menggunak
 | SVM    | 88.0% | 0.87 | 0.89 | 0.88 |
 | Naive Bayes | 85.0% | 0.84 | 0.86 | 0.85 |
 
-Hasil menunjukkan bahwa masyarakat di Indonesia sudah sadar mengenai bahaya kanker payudara hal itu dibuktikan dengan junmlah sentimen positif yang lebih banyak daripada jumlah sentimen negatif. Sentimen Positif berjumlah 1200 dan sentimen negatif berjumlah 800. Hasil akurasi
+Hasil menunjukkan bahwa masyarakat di Indonesia sudah sadar mengenai bahaya kanker payudara hal itu dibuktikan dengan junmlah sentimen positif yang lebih banyak daripada jumlah sentimen negatif. Sentimen Positif berjumlah 1261 dan sentimen negatif berjumlah 739. Hasil akurasi
 
 Visualization Results
 
